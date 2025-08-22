@@ -58,7 +58,7 @@ We trained and evaluated two ensemble models: **Random Forest** and **XGBoost**.
 ## 🧩 How to Run
 1. Clone the repository:
 
-    git clone https://github.com/Hussein-alali/Forest-Cover-Classification.git
+    git clone https://github.com/Hussein-alali/Forest-Cover-Type-Classification
 
 2. Install dependencies:
 
